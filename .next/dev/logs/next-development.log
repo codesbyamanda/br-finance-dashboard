@@ -1,92 +1,6 @@
-[00:00:01.097] Server  LOG     ✓ Ready in 717ms
-[00:00:01.774] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:02.117] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
-       please check the style of container, or the props width(100%) and height(100%),
-       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
-       height and width.
-[00:00:02.117] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
-       please check the style of container, or the props width(100%) and height(100%),
-       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
-       height and width.
-[00:00:20.977] Server  LOG     ✓ Compiled in 735ms
-[00:00:23.050] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:23.456] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
-       please check the style of container, or the props width(100%) and height(100%),
-       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
-       height and width.
-[00:00:23.456] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
-       please check the style of container, or the props width(100%) and height(100%),
-       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
-       height and width.
-[00:03:17.166] Server  LOG     ✓ Compiled in 123ms
-[00:03:17.524] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
-       please check the style of container, or the props width(100%) and height(100%),
-       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
-       height and width.
-[00:03:17.524] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
-       please check the style of container, or the props width(100%) and height(100%),
-       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
-       height and width.
-[00:05:10.301] Server  LOG     ✓ Compiled in 51ms
-[00:05:10.517] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
-       please check the style of container, or the props width(100%) and height(100%),
-       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
-       height and width.
-[00:05:10.517] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
-       please check the style of container, or the props width(100%) and height(100%),
-       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
-       height and width.
-[00:10:21.714] Server  LOG     ✓ Compiled in 117ms
-[00:10:22.522] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
-       please check the style of container, or the props width(100%) and height(100%),
-       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
-       height and width.
-[00:10:22.522] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
-       please check the style of container, or the props width(100%) and height(100%),
-       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
-       height and width.
-[00:10:31.155] Server  LOG     ✓ Compiled in 133ms
-[00:10:31.525] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
-       please check the style of container, or the props width(100%) and height(100%),
-       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
-       height and width.
-[00:10:31.525] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
-       please check the style of container, or the props width(100%) and height(100%),
-       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
-       height and width.
-[00:11:48.433] Server  LOG     ✓ Compiled in 53ms
-[00:11:49.530] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
-       please check the style of container, or the props width(100%) and height(100%),
-       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
-       height and width.
-[00:11:49.530] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
-       please check the style of container, or the props width(100%) and height(100%),
-       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
-       height and width.
-[00:11:52.287] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:11:52.602] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
-       please check the style of container, or the props width(100%) and height(100%),
-       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
-       height and width.
-[00:11:52.602] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
-       please check the style of container, or the props width(100%) and height(100%),
-       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
-       height and width.
-[00:13:02.750] Server  LOG     ✓ Compiled in 50ms
-[00:15:11.657] Server  LOG     ✓ Compiled in 60ms
-[00:15:18.182] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:15:18.763] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
-       please check the style of container, or the props width(100%) and height(100%),
-       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
-       height and width.
-[00:15:18.763] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
-       please check the style of container, or the props width(100%) and height(100%),
-       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
-       height and width.
-[00:16:21.118] Server  LOG     ✓ Compiled in 51ms
-[00:19:39.862] Server  LOG     ✓ Compiled in 55ms
-[00:20:19.795] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:20:19.997] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+[00:00:01.466] Server  LOG     ✓ Ready in 958ms
+[00:00:04.473] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:04.680] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
 
 - A server/client branch `if (typeof window !== 'undefined')`.
 - Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
@@ -122,8 +36,8 @@ It can also happen if the client has a browser extension installed which messes 
                               <div className="jsx-cf1d34...">
                                 <div
                                   style={{
-+                                   height: "94.25479482926428%"
--                                   height: "68.9897%"
++                                   height: "44.1534704289786%"
+-                                   height: "63.8399%"
 +                                   animationDelay: "0ms"
 -                                   animation-delay: "0ms"
                                   }}
@@ -131,8 +45,8 @@ It can also happen if the client has a browser extension installed which messes 
                                 >
                                 <div
                                   style={{
-+                                   height: "51.52877320964673%"
--                                   height: "80.2269%"
++                                   height: "48.419814902800695%"
+-                                   height: "69.9766%"
 +                                   animationDelay: "50ms"
 -                                   animation-delay: "50ms"
                                   }}
@@ -140,8 +54,8 @@ It can also happen if the client has a browser extension installed which messes 
                                 >
                                 <div
                                   style={{
-+                                   height: "65.37638468770473%"
--                                   height: "91.6066%"
++                                   height: "51.58147105692959%"
+-                                   height: "96.8033%"
 +                                   animationDelay: "100ms"
 -                                   animation-delay: "100ms"
                                   }}
@@ -149,8 +63,8 @@ It can also happen if the client has a browser extension installed which messes 
                                 >
                                 <div
                                   style={{
-+                                   height: "88.34571295985299%"
--                                   height: "96.878%"
++                                   height: "88.86883085674164%"
+-                                   height: "69.3349%"
 +                                   animationDelay: "150ms"
 -                                   animation-delay: "150ms"
                                   }}
@@ -158,8 +72,8 @@ It can also happen if the client has a browser extension installed which messes 
                                 >
                                 <div
                                   style={{
-+                                   height: "87.93055604710975%"
--                                   height: "77.4104%"
++                                   height: "54.23000477340834%"
+-                                   height: "79.9674%"
 +                                   animationDelay: "200ms"
 -                                   animation-delay: "200ms"
                                   }}
@@ -167,8 +81,8 @@ It can also happen if the client has a browser extension installed which messes 
                                 >
                                 <div
                                   style={{
-+                                   height: "95.67309571364012%"
--                                   height: "56.9562%"
++                                   height: "73.44237841469817%"
+-                                   height: "67.0208%"
 +                                   animationDelay: "250ms"
 -                                   animation-delay: "250ms"
                                   }}
@@ -176,8 +90,8 @@ It can also happen if the client has a browser extension installed which messes 
                                 >
                                 <div
                                   style={{
-+                                   height: "87.38987626224502%"
--                                   height: "93.7502%"
++                                   height: "65.3624525159685%"
+-                                   height: "49.2236%"
 +                                   animationDelay: "300ms"
 -                                   animation-delay: "300ms"
                                   }}
@@ -185,8 +99,8 @@ It can also happen if the client has a browser extension installed which messes 
                                 >
                                 <div
                                   style={{
-+                                   height: "81.40977089524404%"
--                                   height: "51.4636%"
++                                   height: "59.61077231563023%"
+-                                   height: "58.2985%"
 +                                   animationDelay: "350ms"
 -                                   animation-delay: "350ms"
                                   }}
@@ -194,8 +108,8 @@ It can also happen if the client has a browser extension installed which messes 
                                 >
                                 <div
                                   style={{
-+                                   height: "75.54293103223426%"
--                                   height: "68.9199%"
++                                   height: "42.72281553647222%"
+-                                   height: "41.6142%"
 +                                   animationDelay: "400ms"
 -                                   animation-delay: "400ms"
                                   }}
@@ -203,8 +117,8 @@ It can also happen if the client has a browser extension installed which messes 
                                 >
                                 <div
                                   style={{
-+                                   height: "88.47350297072404%"
--                                   height: "76.1989%"
++                                   height: "60.17619172546306%"
+-                                   height: "54.9837%"
 +                                   animationDelay: "450ms"
 -                                   animation-delay: "450ms"
                                   }}
@@ -212,8 +126,8 @@ It can also happen if the client has a browser extension installed which messes 
                                 >
                                 <div
                                   style={{
-+                                   height: "74.0673717160654%"
--                                   height: "92.6346%"
++                                   height: "53.54892057187232%"
+-                                   height: "49.0963%"
 +                                   animationDelay: "500ms"
 -                                   animation-delay: "500ms"
                                   }}
@@ -221,8 +135,8 @@ It can also happen if the client has a browser extension installed which messes 
                                 >
                                 <div
                                   style={{
-+                                   height: "69.24155095456508%"
--                                   height: "74.4951%"
++                                   height: "51.67377734776076%"
+-                                   height: "76.0687%"
 +                                   animationDelay: "550ms"
 -                                   animation-delay: "550ms"
                                   }}
@@ -233,16 +147,17 @@ It can also happen if the client has a browser extension installed which messes 
               ...
     ...
 
-[00:20:20.353] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+[00:00:05.248] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
        please check the style of container, or the props width(100%) and height(100%),
        or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
        height and width.
-[00:20:20.353] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+[00:00:05.249] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
        please check the style of container, or the props width(100%) and height(100%),
        or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
        height and width.
-[00:20:33.410] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:20:33.580] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+[00:01:31.301] Server  LOG     ✓ Compiled in 853ms
+[00:01:35.726] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:35.890] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
 
 - A server/client branch `if (typeof window !== 'undefined')`.
 - Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
@@ -278,8 +193,8 @@ It can also happen if the client has a browser extension installed which messes 
                               <div className="jsx-cf1d34...">
                                 <div
                                   style={{
-+                                   height: "86.61757945812339%"
--                                   height: "52.2186%"
++                                   height: "66.53914196001045%"
+-                                   height: "69.6698%"
 +                                   animationDelay: "0ms"
 -                                   animation-delay: "0ms"
                                   }}
@@ -287,8 +202,8 @@ It can also happen if the client has a browser extension installed which messes 
                                 >
                                 <div
                                   style={{
-+                                   height: "71.61058135747697%"
--                                   height: "68.3668%"
++                                   height: "67.55253147815772%"
+-                                   height: "72.793%"
 +                                   animationDelay: "50ms"
 -                                   animation-delay: "50ms"
                                   }}
@@ -296,8 +211,8 @@ It can also happen if the client has a browser extension installed which messes 
                                 >
                                 <div
                                   style={{
-+                                   height: "59.81731949476661%"
--                                   height: "54.9722%"
++                                   height: "63.8714841409151%"
+-                                   height: "62.9531%"
 +                                   animationDelay: "100ms"
 -                                   animation-delay: "100ms"
                                   }}
@@ -305,8 +220,8 @@ It can also happen if the client has a browser extension installed which messes 
                                 >
                                 <div
                                   style={{
-+                                   height: "49.25792665656465%"
--                                   height: "52.9564%"
++                                   height: "68.05641702976718%"
+-                                   height: "52.3055%"
 +                                   animationDelay: "150ms"
 -                                   animation-delay: "150ms"
                                   }}
@@ -314,8 +229,8 @@ It can also happen if the client has a browser extension installed which messes 
                                 >
                                 <div
                                   style={{
-+                                   height: "76.32720885657375%"
--                                   height: "78.4187%"
++                                   height: "79.11247042627834%"
+-                                   height: "74.4727%"
 +                                   animationDelay: "200ms"
 -                                   animation-delay: "200ms"
                                   }}
@@ -323,8 +238,8 @@ It can also happen if the client has a browser extension installed which messes 
                                 >
                                 <div
                                   style={{
-+                                   height: "42.92994996521532%"
--                                   height: "94.7735%"
++                                   height: "54.111165480142766%"
+-                                   height: "85.5872%"
 +                                   animationDelay: "250ms"
 -                                   animation-delay: "250ms"
                                   }}
@@ -332,8 +247,8 @@ It can also happen if the client has a browser extension installed which messes 
                                 >
                                 <div
                                   style={{
-+                                   height: "62.721292708805706%"
--                                   height: "69.8002%"
++                                   height: "72.77040052296653%"
+-                                   height: "97.5159%"
 +                                   animationDelay: "300ms"
 -                                   animation-delay: "300ms"
                                   }}
@@ -341,8 +256,8 @@ It can also happen if the client has a browser extension installed which messes 
                                 >
                                 <div
                                   style={{
-+                                   height: "67.06244555374379%"
--                                   height: "94.4666%"
++                                   height: "59.77884451444791%"
+-                                   height: "98.7996%"
 +                                   animationDelay: "350ms"
 -                                   animation-delay: "350ms"
                                   }}
@@ -350,8 +265,8 @@ It can also happen if the client has a browser extension installed which messes 
                                 >
                                 <div
                                   style={{
-+                                   height: "68.59678563256446%"
--                                   height: "44.9982%"
++                                   height: "70.90700407793913%"
+-                                   height: "84.4673%"
 +                                   animationDelay: "400ms"
 -                                   animation-delay: "400ms"
                                   }}
@@ -359,8 +274,8 @@ It can also happen if the client has a browser extension installed which messes 
                                 >
                                 <div
                                   style={{
-+                                   height: "52.26384095345943%"
--                                   height: "78.7676%"
++                                   height: "45.243724041201716%"
+-                                   height: "66.0221%"
 +                                   animationDelay: "450ms"
 -                                   animation-delay: "450ms"
                                   }}
@@ -368,8 +283,8 @@ It can also happen if the client has a browser extension installed which messes 
                                 >
                                 <div
                                   style={{
-+                                   height: "59.35127338636464%"
--                                   height: "60.5946%"
++                                   height: "91.81995117836098%"
+-                                   height: "94.7469%"
 +                                   animationDelay: "500ms"
 -                                   animation-delay: "500ms"
                                   }}
@@ -377,8 +292,8 @@ It can also happen if the client has a browser extension installed which messes 
                                 >
                                 <div
                                   style={{
-+                                   height: "94.7227255921863%"
--                                   height: "79.624%"
++                                   height: "50.393344660834295%"
+-                                   height: "68.5055%"
 +                                   animationDelay: "550ms"
 -                                   animation-delay: "550ms"
                                   }}
@@ -389,180 +304,12 @@ It can also happen if the client has a browser extension installed which messes 
               ...
     ...
 
-[00:20:33.748] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+[00:01:39.648] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
        please check the style of container, or the props width(100%) and height(100%),
        or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
        height and width.
-[00:20:33.748] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+[00:01:39.648] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
        please check the style of container, or the props width(100%) and height(100%),
        or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
        height and width.
-[00:20:57.968] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:20:58.112] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
-
-- A server/client branch `if (typeof window !== 'undefined')`.
-- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
-- Date formatting in a user's locale which doesn't match the server.
-- External changing data without sending a snapshot of it along with the HTML.
-- Invalid HTML tag nesting.
-
-It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
-
-%s%s https://react.dev/link/hydration-mismatch 
-
-  ...
-    <SegmentViewNode type="page" pagePath="page.tsx">
-      <SegmentTrieNode>
-      <ClientPageRoot Component={function HomePage} serverProvidedParams={{...}}>
-        <HomePage params={Promise} searchParams={Promise}>
-          <AppShell>
-            <div className="jsx-91816b...">
-              <div>
-              <div className="jsx-91816b...">
-                <header>
-                <main className="jsx-91816b...">
-                  <div className="space-y-6">
-                    <div>
-                    <Skeleton>
-                      <div className="jsx-cf1d34...">
-                        <div>
-                        <div className="jsx-cf1d34...">
-                          <div>
-                          <div className="jsx-cf1d34...">
-                            <div>
-                            <div className="jsx-cf1d34...">
-                              <div className="jsx-cf1d34...">
-                                <div
-                                  style={{
-+                                   height: "65.31586913288857%"
--                                   height: "45.8062%"
-+                                   animationDelay: "0ms"
--                                   animation-delay: "0ms"
-                                  }}
-                                  className="jsx-cf1d346f4a7ca605 flex-1 rounded-t bg-white/10 animate-pulse"
-                                >
-                                <div
-                                  style={{
-+                                   height: "51.0624441325121%"
--                                   height: "50.9394%"
-+                                   animationDelay: "50ms"
--                                   animation-delay: "50ms"
-                                  }}
-                                  className="jsx-cf1d346f4a7ca605 flex-1 rounded-t bg-white/10 animate-pulse"
-                                >
-                                <div
-                                  style={{
-+                                   height: "40.060955978357484%"
--                                   height: "66.4802%"
-+                                   animationDelay: "100ms"
--                                   animation-delay: "100ms"
-                                  }}
-                                  className="jsx-cf1d346f4a7ca605 flex-1 rounded-t bg-white/10 animate-pulse"
-                                >
-                                <div
-                                  style={{
-+                                   height: "50.90114122118365%"
--                                   height: "78.8625%"
-+                                   animationDelay: "150ms"
--                                   animation-delay: "150ms"
-                                  }}
-                                  className="jsx-cf1d346f4a7ca605 flex-1 rounded-t bg-white/10 animate-pulse"
-                                >
-                                <div
-                                  style={{
-+                                   height: "60.42770011088966%"
--                                   height: "64.805%"
-+                                   animationDelay: "200ms"
--                                   animation-delay: "200ms"
-                                  }}
-                                  className="jsx-cf1d346f4a7ca605 flex-1 rounded-t bg-white/10 animate-pulse"
-                                >
-                                <div
-                                  style={{
-+                                   height: "55.10291261193213%"
--                                   height: "91.0409%"
-+                                   animationDelay: "250ms"
--                                   animation-delay: "250ms"
-                                  }}
-                                  className="jsx-cf1d346f4a7ca605 flex-1 rounded-t bg-white/10 animate-pulse"
-                                >
-                                <div
-                                  style={{
-+                                   height: "51.14772001605159%"
--                                   height: "77.3948%"
-+                                   animationDelay: "300ms"
--                                   animation-delay: "300ms"
-                                  }}
-                                  className="jsx-cf1d346f4a7ca605 flex-1 rounded-t bg-white/10 animate-pulse"
-                                >
-                                <div
-                                  style={{
-+                                   height: "79.89654855385045%"
--                                   height: "40.608%"
-+                                   animationDelay: "350ms"
--                                   animation-delay: "350ms"
-                                  }}
-                                  className="jsx-cf1d346f4a7ca605 flex-1 rounded-t bg-white/10 animate-pulse"
-                                >
-                                <div
-                                  style={{
-+                                   height: "81.07832551735896%"
--                                   height: "88.314%"
-+                                   animationDelay: "400ms"
--                                   animation-delay: "400ms"
-                                  }}
-                                  className="jsx-cf1d346f4a7ca605 flex-1 rounded-t bg-white/10 animate-pulse"
-                                >
-                                <div
-                                  style={{
-+                                   height: "77.03986602246763%"
--                                   height: "90.5743%"
-+                                   animationDelay: "450ms"
--                                   animation-delay: "450ms"
-                                  }}
-                                  className="jsx-cf1d346f4a7ca605 flex-1 rounded-t bg-white/10 animate-pulse"
-                                >
-                                <div
-                                  style={{
-+                                   height: "70.93381427362567%"
--                                   height: "95.7228%"
-+                                   animationDelay: "500ms"
--                                   animation-delay: "500ms"
-                                  }}
-                                  className="jsx-cf1d346f4a7ca605 flex-1 rounded-t bg-white/10 animate-pulse"
-                                >
-                                <div
-                                  style={{
-+                                   height: "97.52010756919844%"
--                                   height: "78.3791%"
-+                                   animationDelay: "550ms"
--                                   animation-delay: "550ms"
-                                  }}
-                                  className="jsx-cf1d346f4a7ca605 flex-1 rounded-t bg-white/10 animate-pulse"
-                                >
-                        ...
-                ...
-              ...
-    ...
-
-[00:20:58.282] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
-       please check the style of container, or the props width(100%) and height(100%),
-       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
-       height and width.
-[00:20:58.282] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
-       please check the style of container, or the props width(100%) and height(100%),
-       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
-       height and width.
-[00:21:17.040] Server  LOG     ✓ Compiled in 43ms
-[00:22:44.424] Server  LOG     ✓ Compiled in 193ms
-[00:25:43.458] Server  LOG     ✓ Compiled in 32ms
-[00:26:23.630] Server  LOG     ✓ Compiled in 29ms
-[00:26:36.221] Server  LOG     ✓ Compiled in 27ms
-[00:26:50.383] Server  LOG     ✓ Compiled in 28ms
-[00:38:12.981] Server  LOG     ✓ Compiled in 41ms
-[00:38:14.575] Server  LOG     ✓ Compiled in 32ms
-[00:38:15.936] Server  LOG     ✓ Compiled in 32ms
-[00:38:18.664] Server  LOG     ✓ Compiled in 31ms
-[00:38:21.596] Server  LOG     ✓ Compiled in 30ms
-[00:39:50.377] Server  LOG     ✓ Compiled in 39ms
-[00:40:39.991] Server  LOG     ✓ Compiled in 60ms
+[00:03:24.077] Server  LOG     ✓ Compiled in 69ms

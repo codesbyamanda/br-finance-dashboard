@@ -12,14 +12,14 @@ export async function http<T>(
   const id = setTimeout(() => controller.abort(), timeout);
 
   try {
-        const response = await fetch(url, {
-        ...options,
-        headers: {
-            Accept: "application/json",
-            ...(options?.headers || {}),
-        },
-        signal: controller.signal,
-        });
+    const response = await fetch(url, {
+    ...options,
+    headers: {
+        Accept: "application/json",
+        ...(options?.headers || {}),
+    },
+    signal: controller.signal,
+    });
 
 
     if (!response.ok) {
